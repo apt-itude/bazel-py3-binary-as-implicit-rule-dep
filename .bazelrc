@@ -1,0 +1,1 @@
+build --incompatible_allow_python_version_transitions
